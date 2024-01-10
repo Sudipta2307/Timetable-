@@ -1,2 +1,2 @@
-# Timetable-
+# Timetable
 Timetable made using HTML
